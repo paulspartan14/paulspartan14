@@ -16,8 +16,8 @@ I love to extend my knowledge to those who need it, and that is why I am a membe
 
 ### Frameworks FrontEnd :package:
 
-| [<img src="assets/vue.png" alt="vue logo" width="40">](https://vuejs.org/)| [<img src="assets/electron.png" alt="electron logo" width="40">](https://www.electronjs.org//) |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | 
+| [<img src="assets/vue.png" alt="vue logo" width="40">](https://vuejs.org/)| [<img src="assets/react.png" alt="react logo" width="40">](https://es.reactjs.org/) | [<img src="assets/electron.png" alt="electron logo" width="40">](https://www.electronjs.org//) |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
 
 ### Frameworks BackEnd :package:
