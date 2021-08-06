@@ -9,6 +9,7 @@ I love to extend my knowledge to those who need it, and that is why I am a membe
 
 [![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paulspartan14&show_icons=true&theme=tokyonight&?count_private=true&hide=["issues"])](https://github.com/paulspartan14/github-readme-stats)
 
+<a href="https://app.daily.dev/PAUL_SPARTAN"><img src="https://api.daily.dev/devcards/ed9d70f4f8c945c79b7e9383aa7ed6e8.png?r=ft9" width="400" alt="Paul Mena's Dev Card"/></a>
 
 </nobr>
 
@@ -60,5 +61,3 @@ I love to extend my knowledge to those who need it, and that is why I am a membe
 ### :hugs: Thank You!
 
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/paulspartan14)! :v:
-
-<a href="https://app.daily.dev/PAUL_SPARTAN"><img src="https://api.daily.dev/devcards/ed9d70f4f8c945c79b7e9383aa7ed6e8.png?r=ft9" width="400" alt="Paul Mena's Dev Card"/></a>
