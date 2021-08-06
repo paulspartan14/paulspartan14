@@ -57,8 +57,8 @@ I love to extend my knowledge to those who need it, and that is why I am a membe
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulmena14/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/paulmena14/)  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://paul.carmesiservices.com/) [<img src ="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white">](https://twitch.tv/paul_spartan) 
 
-[<a href="https://app.daily.dev/PAUL_SPARTAN"><img src="https://api.daily.dev/devcards/ed9d70f4f8c945c79b7e9383aa7ed6e8.png?r=ft9" width="400" alt="Paul Mena's Dev Card"/></a>]
-
 ### :hugs: Thank You!
 
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/paulspartan14)! :v:
+
+<a href="https://app.daily.dev/PAUL_SPARTAN"><img src="https://api.daily.dev/devcards/ed9d70f4f8c945c79b7e9383aa7ed6e8.png?r=ft9" width="400" alt="Paul Mena's Dev Card"/></a>
